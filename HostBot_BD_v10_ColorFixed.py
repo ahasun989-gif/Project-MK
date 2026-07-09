@@ -9,7 +9,7 @@ from telebot import types
 # ════════════════════════════════════════════════════════════
 # CONFIG
 # ════════════════════════════════════════════════════════════
-BOT_TOKEN      = "8570269160:AAHR_VDM-F0nN2Q7h2vcO0nOuiQFcUaPMhk"
+BOT_TOKEN      = "8570269160:AAEJpJZq38IFLgce85vb3HdekDcTti7zlIk"
 SUPER_ADMIN_ID = 7294781579
 ADMIN_PASSWORD = "mkmuzahid"
 DB_FILE        = "database.db"
